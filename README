@@ -1,0 +1,1 @@
+Project depends on EXP4J and LWJGL (with natives for the platform you are running the program from). More detailed compilation instructions will hopefully be adder later.
